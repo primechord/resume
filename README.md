@@ -21,7 +21,7 @@ QA Automation Engineer (Kotlin)
 ## Публичные проекты
 
 * [HABR](https://habr.com/ru/users/primechord/publications/articles/)
-* [HEISENBUG](https://heisenbug.ru/persons/4cd73f6bdf90436fbfe3fa89e27bd864/)
+* [HEISENBUG](https://www.youtube.com/watch?v=16GK6UWpCis)
 * [GITHUB](https://github.com/primechord)
 
 ## Опыт работы
@@ -74,6 +74,7 @@ QA Automation Engineer (Kotlin)
 `Ноябрь 2019 — Ноябрь 2020`
 
     • Ручное тестирование фичей
+    
     • Стартовал автоматизацию по принципу let's try для REST API 
     с возможностью тестировать разные окружения, сервисы
     • Использовал кодогенерацию из Swagger/OAS
